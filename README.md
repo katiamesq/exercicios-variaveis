@@ -1,5 +1,15 @@
 # Back-end | Variáveis
 
+## Iniciando o projeto
+```
+  npm install
+```
+
+## Testando o exercício
+```
+  npm run start ./<pasta do exercicio>/<nome do exercicio>
+```
+
 ## Exercícios
 
 1.  Calculadora de IMC
