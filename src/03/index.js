@@ -9,7 +9,7 @@ console.log("O desconto será de R$ ", valorDesconto);
 
 const porcentagem = valorDesconto * 100 / valorTenis ;
 
-console.log ("A porcentagem do desconto será de " + "%", porcentagem.toFixed(2))
+console.log ("A porcentagem do desconto será de ",  porcentagem.toFixed(2),"%")
 
 
 
